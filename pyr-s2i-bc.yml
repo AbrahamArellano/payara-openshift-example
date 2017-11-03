@@ -15,7 +15,7 @@ spec:
   source:
     git:
       ref: master
-      uri: https://github.com/nextstepman/payara-maven3-s2i-builder.git
+      uri: https://github.com/AbrahamArellano/payara-maven3-s2i-builder.git
     secrets: null
     type: Git
   strategy:
